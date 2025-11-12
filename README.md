@@ -1,13 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/api?font=Jetbrains+Mono&weight=700&size=25&duration=4200&color=F733EC&center=true&vCenter=true&width=460&lines=learning.+developing.+evolving." alt="Typing SVG" />
-  </a>
-</div>
+# 👋 Olá! Meu nome é Pedro Arthur Marques de Almeida. 
 
-<br>
+Sou estudante de **Sistemas de Informação** na UFRPE, com foco em **Segurança Cibernética**.
+Tenho explorado a área através de prática e estudo constante, buscando entender como sistemas funcionam, como surgem vulnerabilidades e como elas podem ser prevenidas.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,windows&theme=dark" />
-  </a>
-</div>
+No momento, meu foco é me desenvolver na área de segurança, fortalecendo meus conhecimentos teóricos e práticos. 
+
+📫 [LinkedIn](https://www.linkedin.com/in/pedro-almeida2025/) • [Email](pedroalmeidaarthur19@gmail.com)
