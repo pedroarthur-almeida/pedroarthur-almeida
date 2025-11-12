@@ -6,4 +6,4 @@ Tenho explorado a área através de prática e estudo constante, buscando entend
 
 No momento, meu foco é me desenvolver na área de segurança, fortalecendo meus conhecimentos teóricos e práticos. 
 
-📫 [LinkedIn](https://www.linkedin.com/in/pedro-almeida2025/) • [Email](pedroalmeidaarthur19@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/pedro-almeida2025/) • [Email](mailto:pedroalmeidaarthur19@gmail.com)
