@@ -19,5 +19,5 @@
 
 ## Contato
 
-- LinkedIn: SEU_LINKEDIN
-- E-mail: SEU_EMAIL
+- LinkedIn: https://www.linkedin.com/in/pedro-almeida2025/
+- E-mail: pedro.arthura@ufrpe.br
