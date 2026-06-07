@@ -4,7 +4,7 @@
 
 </p>
 
-# 👋 Pedro Arthur
+# Seja bem vindo! Me chamo Pedro Arthur
 
 🎓 Sistemas de Informação — UFRPE | 💻 Desenvolvedor Full Stack
 
@@ -16,5 +16,5 @@
 
 ## Contato
 
-- LinkedIn: Pedro Almeida
+- LinkedIn: [Pedro Almeida](https://www.linkedin.com/in/pedro-almeida2025/)
 - E-mail: pedro.arthura@ufrpe.br
