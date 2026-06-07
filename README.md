@@ -1,20 +1,18 @@
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&width=700&lines=Welcome+to+my+GitHub+profile.;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=700&lines=Building+software+one+step+at+a+time.;Always+learning%2C+always+improving.;Turning+ideas+into+code.)](https://git.io/typing-svg)
+# 👋 Seja bem-vindo! Me chamo Pedro Arthur
 
-</p>
+🎓 Estudante de Sistemas de Informação na UFRPE
 
-# Seja bem vindo! Me chamo Pedro Arthur
-
-🎓 Sistemas de Informação — UFRPE | 💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack
 
 ## Tecnologias
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,react,dotnet,mysql" />
 </p>
 
 ## Contato
 
-- LinkedIn: [Pedro Almeida](https://www.linkedin.com/in/pedro-almeida2025/)
+- LinkedIn: https://www.linkedin.com/in/pedro-almeida2025/
 - E-mail: pedro.arthura@ufrpe.br
