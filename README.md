@@ -1,12 +1,12 @@
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=600&lines=Pedro+Arthur;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=700&lines=Building+software+one+step+at+a+time.;Always+learning%2C+always+improving.;Turning+ideas+into+code.)](https://git.io/typing-svg)
 
 </p>
 
-🎓 Estudante de Sistemas de Informação na UFRPE
+# 👋 Pedro Arthur
 
-💻 Desenvolvedor Full Stack
+🎓 Sistemas de Informação — UFRPE | 💻 Desenvolvedor Full Stack
 
 ## Tecnologias
 
