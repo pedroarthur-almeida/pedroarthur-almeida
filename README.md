@@ -1,8 +1,8 @@
 # Pedro Arthur
 
-🎓 Estudante de Sistemas de Informação na UFRPE
+🎓 Estudante de Sistemas de Informação na UFRPE.
 
-💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack.
 
 ## Tecnologias
 
