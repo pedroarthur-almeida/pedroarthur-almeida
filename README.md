@@ -7,7 +7,7 @@
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,javascript,typescript,react,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,react,mysql" />
 </p>
 
 ## Contato
