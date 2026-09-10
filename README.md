@@ -1,5 +1,3 @@
-# 👋 Seja bem-vindo(a)! Me chamo Pedro Arthur
-
 🎓 Estudante de Sistemas de Informação na UFRPE
 
 💻 Desenvolvedor Full Stack
